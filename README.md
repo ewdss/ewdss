@@ -1,11 +1,11 @@
-<h1 align="center">Vlad Morozov</h1>
+<h1 align="left">Vlad Morozov</h1>
 
-<p align="center">
+<p align="left">
   <strong>Tech explorer</strong><br>
   I build R&amp;D teams, lead products, and grow tech businesses.
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/vl-morozov/">Connect on LinkedIn</a></p>
+<p align="left"><a href="https://www.linkedin.com/in/vl-morozov/">Connect on LinkedIn</a></p>
 
 What I work on now: as co-founder & CPO, we build software for private and cloud-based 5G networks, including tools for network slicing.
 
